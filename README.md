@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm M P V N VAMSI</h1>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2F149351115.v2.pressablecdn.com%2Fwp-content%2Fuploads%2F2020%2F09%2Fhiring-engineers-lead-Final.png&imgrefurl=https%3A%2F%2Fstackoverflow.blog%2F2020%2F09%2F23%2Fhiring-jobs-candidates-software-coding-programmers-teresa-dietrich%2F&tbnid=oyOmDtj1HTPB6M&vet=12ahUKEwi8-66X4KHxAhURaSsKHeWOBOsQMygCegQIARBD..i&docid=a-PXxNRDOQ1QaM&w=2400&h=1260&q=software%20inspiring%20attractive%20to%20recruters&ved=2ahUKEwi8-66X4KHxAhURaSsKHeWOBOsQMygCegQIARBD" alt="Girl in a jacket" width="500" height="600">
-<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2F149351115.v2.pressablecdn.com%2Fwp-content%2Fuploads%2F2020%2F09%2Fhiring-engineers-lead-Final.png&imgrefurl=https%3A%2F%2Fstackoverflow.blog%2F2020%2F09%2F23%2Fhiring-jobs-candidates-software-coding-programmers-teresa-dietrich%2F&tbnid=oyOmDtj1HTPB6M&vet=12ahUKEwi8-66X4KHxAhURaSsKHeWOBOsQMygCegQIARBD..i&docid=a-PXxNRDOQ1QaM&w=2400&h=1260&q=software%20inspiring%20attractive%20to%20recruters&ved=2ahUKEwi8-66X4KHxAhURaSsKHeWOBOsQMygCegQIARBD">
 <h3 align="center">A passionate Software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi8315&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi8315" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi8315" alt="vamsi8315" /></a> </p>
 
