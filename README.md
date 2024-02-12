@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi8315" alt="vamsi8315" /></a> </p>
 
-- 🔭 I’m currently working on [Online Bus Ticket Booking System](https://github.com/vamsi8315/mini--project)
+- 🔭 I’m currently working on TCS
 
 - 🌱 I’m currently learning **Ds and Algorithums**
 
